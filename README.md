@@ -34,6 +34,8 @@ Os sensores de pressão inclusos nas canetas vaporizadoras são os de membrana: 
 
 # Medidas de pressão da calibração 
 
+O sistema foi calibrado utilizando o sensor BME280 e relacionando com a quantidade de sensores acionados.
+
 | Numero sensor | Pressão medida (hPa) | 
 | --------      | ---------------------|
 | 1             | 945                  | 
