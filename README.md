@@ -20,7 +20,8 @@ Para fazermos um sistema de medidas de pressão mais robusto, podemos usar múlt
 Os sensores de pressão inclusos nas canetas vaporizadoras são os de membrana: uma membrana de material elástico fino é inserida em uma cavidade de área A de modo que fica tensionada com uma certa força F0, quando uma pressão P tal que P/A > F0, a membrana vira ao outro lado, fechando o circuito. Logo, é um sensor digital.
 
 # Lista de Materiais
-Fita kapton
+
+-Fita kapton
 -Fita de cobre
 -Brocas
 -Tubos de caneta
