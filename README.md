@@ -21,16 +21,16 @@ Os sensores de pressão inclusos nas canetas vaporizadoras são os de membrana: 
 
 # Lista de Materiais
 
--Fita kapton
--Fita de cobre
--Brocas
--Tubos de caneta
--Cola quente
--Superbonder
--Brocas 0.7, 1, 1.4, 2.5, 4
--Carregador de bateria
--Ferro de solda 
--Micro retifica
+- Fita kapton
+- Fita de cobre
+- Brocas
+- Tubos de caneta
+- Cola quente
+- Superbonder
+- Brocas 0.7, 1, 1.4, 2.5, 4
+- Carregador de bateria
+- Ferro de solda 
+- Micro retifica
 
 # Medidas de pressão da calibração 
 
