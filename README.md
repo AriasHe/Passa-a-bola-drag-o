@@ -49,7 +49,7 @@ Sobre valores espirométricos de referência: Graham BL, Steenbruggen I, Miller 
 Pereira CAC, Soares MR, Gimenez A. The importance of appropriate reference values in patients suspected of having obstructive lung disease. J Bras Pneumol. 2019;45(6):e20190299. https://doi.org/10.1590/1806-3713/e20190299
 
 
-# Apêndice 1: Roteiro
+# Apêndice 1: Roteiro do video enviado
 
 Nosso projeto parte de uma proposta de transformar cigarros eletrônicos descartados em espirometros funcionais, acessíveis e sustentáveis. Os vapes geralmente são compostos por um cartucho com atomizador, sensor de pressão, bateria e corpo de alumínio ou plástico. O crescente uso de vapes tem sido associado ao agravamento de doenças respiratórias como asma, bronquite e COVID longa.
 
