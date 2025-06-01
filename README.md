@@ -49,14 +49,18 @@ Sobre valores espirométricos de referência: Graham BL, Steenbruggen I, Miller 
 Pereira CAC, Soares MR, Gimenez A. The importance of appropriate reference values in patients suspected of having obstructive lung disease. J Bras Pneumol. 2019;45(6):e20190299. https://doi.org/10.1590/1806-3713/e20190299
 
 
-# Apêndice 1: Roteiro \ Closed Captions do Vídeo
+# Apêndice 1: Roteiro
+
 Nosso projeto parte de uma proposta de transformar cigarros eletrônicos descartados em espirometros funcionais, acessíveis e sustentáveis. Os vapes geralmente são compostos por um cartucho com atomizador, sensor de pressão, bateria e corpo de alumínio ou plástico. O crescente uso de vapes tem sido associado ao agravamento de doenças respiratórias como asma, bronquite e COVID longa.
+
 Diante dessa realidade, a espirometria se torna essencial para o diagnóstico precoce, acompanhamento clínico e pesquisas em saúde respiratória. No entanto, o alto custo e a baixa disponibilidade de espirometros dificultam seu uso em larga escala.
 Nossa proposta busca reverter esse cenário com uma solução de baixo custo: reutilizar os próprios componentes dos vapes — especialmente os sensores de pressão, que são mais difíceis de serem reaproveitados — para construir espirometros simples, modulares e funcionais. A reutilização dos vapes tem duplo impacto: ambiental, ao reduzir o descarte de lixo eletrônico; e social, ao facilitar o acesso a exames respiratórios em comunidades e unidades de saúde com poucos recursos.
 O funcionamento do dispositivo é simples. Utilizamos o corpo do vape como tubo principal, com seu bocal em uma das extremidades. Ao longo do tubo são feitos pequenos furos com diâmetros variados, de forma a modificar a pressão que ativa cada sensor. Cada furo leva a um sensor de pressão que estão espaçados de forma estratégica, conectado a LEDs.
+
 Os sensores foram caracterizados individualmente e se comportam de acordo com estudos disponíveis.   À medida que o usuário sopra no aparelho, o fluxo de ar ativa os sensores gradualmente: quanto maior a pressão do sopro, mais LEDs se acendem. Isso permite uma leitura visual e intuitiva da força expiratória do usuário.
 A energia do sistema é fornecida pela própria bateria do vape, que também foi reaproveitada, com um conector USB para recarregamento. A calibração é feita associando os níveis de pressão aos LEDs ativados. Um protótipo simplificado foi feito com os materiais fornecidos para demonstrar o princípio de funcionamento com apenas 3 níveis de led: pressão baixa, média e alta. 
 Um protótipo completo com seis sensores foi conectado a um sistema de ar comprimido e manômetro a fim de garantir medidas confiáveis da pressão em diferentes pontos do tubo. Opcionalmente com o uso de um microcontrolador o sistema também mede a força, o volume e o tempo de expiração do usuario, que pode ser utilizado para historico, programa de tratamento e fortalecimento muscular pulmonar.
+
 O projeto se destaca por sua sustentabilidade, devido o uso quase completo dos componentes do vape; sua viabilidade tecnica ao demonstrar protótipos calibrados e funcionais; sua viabilidade economica pelo baixo custo em comparação aos espirometros comerciais e  escalabilidade por  utilizar um grande número de componentes dificeis de reciclar, além da facilidade de fabricação. 
 Aplicação social por ter um foco na prevenção, detecção e tratamento de diversas doenças respiratórias e na criatividade e inovação , pois a modificação dos vapes permite que o dispositivo seja utiliziado como ferramenta de reabilitação e fortalecimento pulmonar, dada sua leveza, portabilidade e potencial para gameficação do exercicio respiratorio.
 No QR code é possível ver informações adicionais como a bibliografia, e a documentação do projeto.
