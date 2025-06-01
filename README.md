@@ -31,6 +31,16 @@ Fita kapton
 -Ferro de solda 
 -Micro retifica
 
+# Medidas de pressão da calibração 
+
+| Numero sensor | Pressão medida (hPa) | 
+| --------      | ---------------------|
+| 1             | 945                  | 
+| 2             | 953                  |          
+| 3             | 955                  |
+| 4             | 960                  |  
+| 5             | 966                  |
+
 # Bibliografia
 
 Teardown sensor e ASIC:
