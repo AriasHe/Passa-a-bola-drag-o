@@ -1,4 +1,4 @@
-# Passa a bola dragao 
+# Passa a bola dragão 
 
 Nosso projeto parte de uma proposta de transformar cigarros eletrônicos descartados em espirometros funcionais, acessíveis e sustentáveis.
 
@@ -14,6 +14,10 @@ Alguns elementos altamente recicláveis, ex.: bateria, com um balanceador de rec
 
 
 Para fazermos um sistema de medidas de pressão mais robusto, podemos usar múltiplos sensores digitais suficientemente parecidos, e criar caminhos pneumáticos que abaixem a pressão vista em cada um. Para sensor pulmonar, basta que uma pessoa saudável consiga acender uma quantidade razoável, e uma pessoa com baixa capacidade pulmonar acenda poucos, pode vazar ar.
+
+<center>
+<img src="https://github.com/user-attachments/assets/1bf2e1e3-72bb-41cf-a5c8-68bc8ee81d8a" width="30%">
+</center>
 
 # Funcionamento do sensor
 
